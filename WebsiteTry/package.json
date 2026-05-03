@@ -1,0 +1,12 @@
+{
+  "name": "luxe-scents",
+  "version": "1.0.0",
+  "description": "Luxury Fragrance Website",
+  "main": "email-server.js",
+  "scripts": {
+    "start": "node email-server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
